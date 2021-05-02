@@ -1,0 +1,8 @@
+--enable-python
+--with-lua
+--with-cap
+--with-acl
+--enable-nls
+--without-internal-beecrypt
+--without-selinux
+--disable-inhibit-plugin
