@@ -1,14 +1,14 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
 acl-dev
-#acl-staticdev
+acl-staticdev
 automake
 automake-dev
 binutils-dev
 binutils-extras
 bison
 bzip2-dev
-#bzip2-staticdev
+bzip2-staticdev
 compat-lua-53
 compat-lua-53-abi
 compat-lua-53-bin
@@ -24,9 +24,9 @@ docbook-xml
 doxygen
 elfutils-dev
 expect
-#fakechroot
-#fakechroot-dev
-#fakechroot-staticdev
+fakechroot
+fakechroot-dev
+fakechroot-staticdev
 file
 file-abi
 file-bin
@@ -62,19 +62,19 @@ glibc-nscd
 glibc-staticdev
 glibc-utils
 gmp-dev
-#gmp-staticdev
+gmp-staticdev
 gnupg
 graphviz
 guile
 libarchive
 libarchive-dev
-#libarchive-staticdev
+libarchive-staticdev
 libcap
 libcap-dev
 libedit
 libedit-dev
 libffi-dev
-#libffi-staticdev
+libffi-staticdev
 libgcc1
 libgcrypt
 libgcrypt-dev
@@ -86,7 +86,7 @@ libunwind-dev
 m4
 nspr-dev
 openssl-dev
-#openssl-staticdev
+openssl-staticdev
 pkg-config-dev
 popt
 popt-dev
@@ -97,10 +97,10 @@ sqlite-autoconf-dev
 #sqlite-autoconf-staticdev
 unzip
 xz-dev
-#xz-staticdev
+xz-staticdev
 zip
 zlib
 zlib-dev
-#zlib-staticdev
+zlib-staticdev
 zstd-dev
-#zstd-staticdev
+zstd-staticdev
