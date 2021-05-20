@@ -38,11 +38,8 @@ file-man
 flex
 gcc
 gcc-dev
-gcc-dev32
 gcc-doc
-gcc-libgcc32
 gcc-libs-math
-gcc-libstdc++32
 gcc-libubsan
 gcc-locale
 gdb
@@ -52,11 +49,9 @@ git
 glibc-bench
 glibc-bin
 glibc-dev
-glibc-dev32
 glibc-doc
 glibc-extras
 glibc-lib-avx2
-glibc-libc32
 glibc-locale
 glibc-nscd
 glibc-staticdev
@@ -94,7 +89,7 @@ python3-dev
 python3-staticdev
 sqlite-autoconf
 sqlite-autoconf-dev
-#sqlite-autoconf-staticdev
+sqlite-autoconf-staticdev
 unzip
 xz-dev
 xz-staticdev
