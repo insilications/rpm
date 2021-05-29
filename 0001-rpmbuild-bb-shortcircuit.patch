@@ -1,7 +1,7 @@
 From 7dc74d2a660f5deb8acc1d67039cc38c52f4ccd7 Mon Sep 17 00:00:00 2001
 From: Francisco Boni <boboniboni@gmail.com>
 Date: Mon, 19 Apr 2021 23:55:12 -0300
-Subject: [PATCH] rpmbuild bb shortcircuit
+Subject: [PATCH 1/2] rpmbuild bb shortcircuit
 
 ---
  build/pack.c | 6 +++---
@@ -44,5 +44,5 @@ index ffb61fc..dc9410e 100644
      case 'p':
  	ba->buildAmount |= RPMBUILD_PREP;
 -- 
-2.30.2
+2.31.1
 

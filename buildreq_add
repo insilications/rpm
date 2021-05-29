@@ -17,6 +17,7 @@ compat-lua-53-lib
 compat-lua-53-man
 compat-lua-53-staticdev
 db-dev
+db-staticdev
 dbus-dev
 dejagnu
 docbook-utils
@@ -35,6 +36,7 @@ file-dev
 file-lib
 file-license
 file-man
+file-staticdev
 flex
 gcc
 gcc-dev
@@ -75,12 +77,15 @@ libstdc++
 libtool
 libtool-dev
 m4
-nspr-dev
+nspr-staticdev
+nss-dev
+nss-staticdev
 openssl-dev
 openssl-staticdev
 pkg-config-dev
 popt
 popt-dev
+popt-staticdev
 python3-dev
 python3-staticdev
 sqlite-autoconf

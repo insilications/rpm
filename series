@@ -24,3 +24,4 @@
 0024-elf.attr-exclude-openmpi-directories.patch
 0025-elf.attr-exclude-mingw-library-tree.patch
 0001-rpmbuild-bb-shortcircuit.patch
+0002-__requires_filter-support.patch
